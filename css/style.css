@@ -4024,6 +4024,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 
 .nav-link:focus, .nav-link:hover {
   text-decoration: none
+  color:red;
 }
 
 .nav-link.disabled {
@@ -4059,7 +4060,10 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff
 }
-
+.nav-item .nav-link:hover{
+  color:black;
+  background-color: orange;
+}
 .nav-tabs .dropdown-menu {
   margin-top: -1px;
   border-top-left-radius: 0;
@@ -9720,9 +9724,9 @@ header .navbar .nav-link {
   }
 }
 
-header .navbar .nav-link.active {
-  color: orange
-}
+/* header .navbar .nav-link.active {
+  color:
+} */
 
 header .navbar .dropdown-menu {
   font-size: 14px;
