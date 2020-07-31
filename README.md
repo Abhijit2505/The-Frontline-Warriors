@@ -31,15 +31,23 @@ Prototype Can be Viewed Here - <a href='https://abhijit2505.github.io/The-Frontl
 
 ## About The Developers
 
-<img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Developers/Astha.png" height = "100"> 
+<table>
+<tr>
+  <td>
+    <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Developers/Astha.png" height = "100"><br />
 
 <a href = "https://github.com/astha-garhewal">Astha Garhewal</a><br>
 A third year undergraduate in B.Tech, Computer Science and Engineering at Guru Ghasidas Vishwavidyalaya, Bilaspur, India.
-
-<img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Developers/Abhijit23.jpeg" height = "100"> 
+  </td>
+  <td>
+    <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Developers/Abhijit23.jpeg" height = "100"><br />
 
 <a href = "https://github.com/Abhijit2505">Abhijit Tripathy</a><br>
 A second year undergraduate in B.Tech, Computer Science and Engineering at Guru Ghasidas Vishwavidyalaya, Bilaspur, India.
+  </td>
+</tr>
+</table>
+
 
 #### Reference And Copyright
 
