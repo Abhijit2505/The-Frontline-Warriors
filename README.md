@@ -27,7 +27,42 @@ The aim of our initiative is to provide the much needed recognition to our front
 
 ## Website Link
 
-Prototype Can be Viewed Here - <a href='https://abhijit2505.github.io/The-Frontline-Warriors/' >Heroes IN Action</a>
+#### Visuals from the prototype
+
+<table>
+  <tr>
+    <td>
+      <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Prototype%20Images/website%20prototype%201.PNG" height = "220">
+      <br> <b>Home Page</b>  </td>
+    <td>
+      <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Prototype%20Images/website%20prototype2.PNG" height = "220"><br>
+      <b>Recognitions</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Prototype%20Images/dcotor.PNG" height = "220">
+      <br> <b>Recognising The Medical Staffs</b>  </td>
+    <td>
+      <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Prototype%20Images/police%20man.PNG" height = "220"><br>
+      <b>Recognising The Security Personnels</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Prototype%20Images/Capture%20strategiest.PNG" height = "220">
+      <br> <b>Recognising The Government Officials</b>  </td>
+    <td>
+      <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Prototype%20Images/Capture%20social.PNG" height = "220"><br>
+      <b>Recognising The Public Service Workers</b>
+    </td>
+  </tr>
+  
+  </table>
+
+
+
+<b>The Entire Prototype Can be Viewed Here - <a href='https://abhijit2505.github.io/The-Frontline-Warriors/' >Heroes IN Action</a><b>
 
 ## About The Developers
 
