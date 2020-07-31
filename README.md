@@ -62,7 +62,7 @@ The aim of our initiative is to provide the much needed recognition to our front
 
 
 
-<b>The Entire Prototype Can be Viewed Here - <a href='https://abhijit2505.github.io/The-Frontline-Warriors/' >Heroes IN Action</a><b>
+<b>The Entire Prototype Can be Viewed Here - <a href='https://abhijit2505.github.io/The-Frontline-Warriors/' >Heroes IN Action</a></b>
 
 ## About The Developers
 
