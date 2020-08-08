@@ -1,7 +1,5 @@
 # Heroes In Action
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
-
-<img src = "https://img.shields.io/badge/COVID--19-Frontline--Warriors-red?style=for-the-badge&logo=CMake" height="30">
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)&nbsp;&nbsp;<img src = "https://img.shields.io/badge/COVID--19-Frontline--Warriors-red?style=for-the-badge&logo=CMake" height="34">
 
 The COVID‑19 pandemic, also known as the coronavirus pandemic, is an ongoing global pandemic of coronavirus disease 2019 (COVID‑19), caused by severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2).The outbreak was first identified in December 2019 in Wuhan, China.
 
@@ -26,7 +24,7 @@ The aim of our initiative is to provide the much needed recognition to our front
 
 ## Tech-Stacks Invoved
 
-<img src = "https://img.shields.io/badge/-HTML-green?style=for-the-badge&logo=HTML5" height = "30">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3" height = "30">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-BOOTSTRAP-orange?style=for-the-badge&logo=Bootstrap" height = "30">
+<img src = "https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5" height = "40">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3" height = "40">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-BOOTSTRAP-orange?style=for-the-badge&logo=Bootstrap" height = "40">
 
 ## Website Link
 
