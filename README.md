@@ -1,4 +1,7 @@
 # Heroes In Action
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+
+<img src = "https://img.shields.io/badge/COVID--19-Frontline--Warriors-red?style=for-the-badge&logo=CMake" height="30">
 
 The COVID‑19 pandemic, also known as the coronavirus pandemic, is an ongoing global pandemic of coronavirus disease 2019 (COVID‑19), caused by severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2).The outbreak was first identified in December 2019 in Wuhan, China.
 
@@ -23,7 +26,7 @@ The aim of our initiative is to provide the much needed recognition to our front
 
 ## Tech-Stacks Invoved
 
-<img src = "https://img.shields.io/badge/-HTML-green" height = "30">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-CSS-blue" height = "30">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-BOOTSTRAP-orange" height = "30">
+<img src = "https://img.shields.io/badge/-HTML-green?style=for-the-badge&logo=HTML5" height = "30">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3" height = "30">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-BOOTSTRAP-orange?style=for-the-badge&logo=Bootstrap" height = "30">
 
 ## Website Link
 
@@ -69,13 +72,14 @@ The aim of our initiative is to provide the much needed recognition to our front
 <table>
 <tr>
   <td>
-    <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Developers/Astha.png" height = "100"><br />
+    <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Developers/Astha.png" height = "100">&nbsp;&nbsp<img src = "https://img.shields.io/github/followers/astha-garhewal?label=Let%27s%20Connect&style=social"><br />
 
 <a href = "https://github.com/astha-garhewal">Astha Garhewal</a><br>
-A third year undergraduate in B.Tech, Computer Science and Engineering at Guru Ghasidas Vishwavidyalaya, Bilaspur, India.
+A third year undergraduate in B.Tech, Computer Science and Engineering at Guru Ghasidas Vishwavidyalaya, Bilaspur, India.<br/>
+
   </td>
   <td>
-    <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Developers/Abhijit23.jpeg" height = "100"><br />
+    <img src = "https://github.com/Abhijit2505/The-Frontline-Warriors/blob/master/Developers/Abhijit23.jpeg" height = "100">&nbsp;&nbsp<img src = "https://img.shields.io/github/followers/Abhijit2505?label=Let%27s%20Connect&style=social"><br />
 
 <a href = "https://github.com/Abhijit2505">Abhijit Tripathy</a><br>
 A second year undergraduate in B.Tech, Computer Science and Engineering at Guru Ghasidas Vishwavidyalaya, Bilaspur, India.
